@@ -17,6 +17,13 @@ The is my first repository for learning thingamabobs
 
  </details>
  
+ Adding quotes
 ---
 >Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.
 - Antoine de Saint – Exupery
+
+Adding a comment
+<!-- COMMENT -->
+## About me
+
+<!-- TO DO: add more details about me later -->
